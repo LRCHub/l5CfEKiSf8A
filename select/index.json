@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "乙女のポリシー",
+  "base_artist": "石田 よう子",
+  "createdAt": "2025-12-01T15:37:49.284609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "乙女のポリシー (美少女戦士セーラームーンR)",
+      "artist": "石田燿子",
+      "has_synced": false,
+      "path": "select/01_乙女のポリシー_(美少女戦士セーラームーンR)_石田燿子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "乙女のポリシー",
+      "artist": "Tokyo Philharmonic Orchestra",
+      "has_synced": false,
+      "path": "select/02_乙女のポリシー_Tokyo_Philharmonic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "乙女のポリシー",
+      "artist": "東京フィルハーモニー交響楽団",
+      "has_synced": false,
+      "path": "select/03_乙女のポリシー_東京フィルハーモニー交響楽団.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "乙女のポリシー",
+      "artist": "YAKUSHIMARU Etsuko",
+      "has_synced": true,
+      "path": "select/04_乙女のポリシー_YAKUSHIMARU_Etsuko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "乙女のポリシー",
+      "artist": "やくしまるえつこ",
+      "has_synced": true,
+      "path": "select/05_乙女のポリシー_やくしまるえつこ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "乙女のポリシー",
+      "artist": "石田燿子",
+      "has_synced": false,
+      "path": "select/06_乙女のポリシー_石田燿子.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "乙女のポリシー",
+      "artist": "石田よう子",
+      "has_synced": false,
+      "path": "select/07_乙女のポリシー_石田よう子.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "乙女のポリシー",
+      "artist": "Ishida, Yoko",
+      "has_synced": false,
+      "path": "select/08_乙女のポリシー_Ishida,_Yoko.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "乙女のポリシー",
+      "artist": "中川翔子",
+      "has_synced": false,
+      "path": "select/09_乙女のポリシー_中川翔子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "乙女のポリシー",
+      "artist": "Yōko Ishida",
+      "has_synced": false,
+      "path": "select/10_乙女のポリシー_Yōko_Ishida.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "乙女のポリシー",
+      "artist": "榊原ゆい",
+      "has_synced": false,
+      "path": "select/11_乙女のポリシー_榊原ゆい.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "乙女のポリシー",
+      "artist": "石田よう子",
+      "has_synced": false,
+      "path": "select/pl_01_乙女のポリシー_石田よう子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "乙女のポリシー",
+      "artist": "石田よう子",
+      "has_synced": false,
+      "path": "select/pl_02_乙女のポリシー_石田よう子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "乙女のポリシー",
+      "artist": "石田よう子",
+      "has_synced": false,
+      "path": "select/pl_03_乙女のポリシー_石田よう子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "乙女のポリシー",
+      "artist": "石田よう子",
+      "has_synced": false,
+      "path": "select/pl_04_乙女のポリシー_石田よう子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "乙女のポリシー",
+      "artist": "石田よう子",
+      "has_synced": false,
+      "path": "select/pl_05_乙女のポリシー_石田よう子.txt"
+    }
+  ]
+}
